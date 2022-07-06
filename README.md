@@ -10,7 +10,7 @@ My process of working on this challenge as follows:
 
 4. Read the code to verify and make sure no changes on the webpage  
 
-5. Double check if there are any typos
+5. Double check if there are any typos and test the code one more time
 
 6. Push the project on Github
 
