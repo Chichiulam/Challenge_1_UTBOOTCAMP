@@ -1,6 +1,6 @@
 # Challenge #1: Code Refactor by Chi Chiu Lam
 
-My processes of working on this challenge as follows:
+My process of working on this challenge as follows:
 
 1. Open the HTML link to view the webpage
 
