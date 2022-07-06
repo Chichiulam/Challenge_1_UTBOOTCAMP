@@ -16,7 +16,7 @@ My process of working on this challenge as follows:
 
 ## Code Refactor Examples
 
-1. Replace all `div` using semantic tags
+* Replace all `div` using semantic tags
 
 Before
 
@@ -41,7 +41,7 @@ After
 </section>
 ```
 
-2. Consolidate some redundant code in CSS
+* Consolidate some redundant code in CSS
 
 Before
 ```css
