@@ -1,4 +1,5 @@
 # Challenge #1: Code Refactor by Chi Chiu Lam
+Link to deployed application:  https://chichiulam2022.github.io/Challenge_1_UTBOOTCAMP/
 
 My process of working on this challenge as follows:
 
@@ -68,3 +69,4 @@ h3 {
     text-align: center;
 }
 ```
+
